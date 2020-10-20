@@ -1,0 +1,33 @@
+.footer-info{
+
+}
+.footer-icon{
+    position: absolute;
+    height: 20px;
+    left: 30.42%;
+    right: 67.78%;
+    top: 4054px;
+    background: #0AD9C6;
+}
+.email{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+.phone{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.5);
+}
