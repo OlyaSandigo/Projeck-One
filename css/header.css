@@ -39,7 +39,7 @@
     mix-blend-mode: normal;
     opacity: 0.8;
 }
-.text2{
+.form__text{
     font-family: Open Sans;
     font-style: normal;
     font-weight: 600;
@@ -51,13 +51,13 @@
     color: #FFFFFF;
     mix-blend-mode: normal;
 }   
-.input{
+.form__input{
     background: #FFFFFF;
     border: 1px solid #C9CCD4;
     box-sizing: border-box;
     border-radius: 4px; 
 }
-.button{
+.form__button{
     font-family: Open Sans;
     font-style: normal;
     font-weight: 600;
