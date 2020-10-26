@@ -1,8 +1,14 @@
-.movie
-{
-
-}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 .movie{
+    background-color:#131314;
+    background-image: url(./../img/josh-nuttall-zkVi57UYHIQ-unsplash1.png);
+}
+.movie-title{
+    position: absolute;
+    width: 350px;
+    height: 30px;
+    left: 540px;
+    top: 2486px;
     font-family: Open Sans;
     font-style: normal;
     font-weight: 600;
