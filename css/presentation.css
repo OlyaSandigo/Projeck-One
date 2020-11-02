@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 .presentation {
-    font-family: "Open Sans";
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif;
     font-size: 30px;
     font-style: normal;
     font-weight: 600;
@@ -10,7 +9,7 @@
    }
 .presentation-block {
     }
-.number {font-family: Open Sans;
+.number {font-family: "OpenSans"; "TimesNewRoman", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 28px;
@@ -22,7 +21,7 @@
     color: #0AD9C6;
 }
 .text-number {
-    font-family: Open Sans;
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
