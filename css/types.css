@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 .types-title {
     position: absolute;
     width: 288px;
     height: 30px;
     left: 571px;
     top: 1478px;
-    font-family: Open Sans;
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
