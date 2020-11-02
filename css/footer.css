@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 .footer-info{
 
 }
@@ -11,7 +10,7 @@
     background: #0AD9C6;
 }
 .email{
-    font-family: Open Sans;
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif ;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -22,7 +21,7 @@
     color: rgba(0, 0, 0, 0.5);
 }
 .phone{
-    font-family: Open Sans;
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif ;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
