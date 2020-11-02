@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 .address-title{
-    font-family: Open Sans;
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif ;
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
@@ -10,7 +9,7 @@
     color: #1F1F1F;
 }
 .address-text{
-    font-family: Open Sans;
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif ;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
