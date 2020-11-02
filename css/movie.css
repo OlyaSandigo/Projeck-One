@@ -1,15 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 .movie{
     background-color:#131314;
-    background-image: url(./../img/josh-nuttall-zkVi57UYHIQ-unsplash1.png);
+    width: 1440px;
+    height: 706px;
 }
 .movie-title{
-    position: absolute;
-    width: 350px;
-    height: 30px;
-    left: 540px;
-    top: 2486px;
-    font-family: Open Sans;
+    font-family: "OpenSans", "TimesNewRoman", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
@@ -19,7 +14,7 @@
     color: #FFFFFF;
 }
 .movie-text{
-    font-family: Open Sans;
+    font-family: "OpenSans"; "TimesNewRoman", sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 16px;
